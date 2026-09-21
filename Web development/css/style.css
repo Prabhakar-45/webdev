@@ -1,0 +1,20 @@
+*{
+    background-color: aqua;
+}
+
+h1{
+    background-color: rgb(218, 11, 63);
+}
+
+.rjclass{
+    background-color: yellow;
+}
+
+#rjclass {
+    background-color: white;
+}
+
+#pkclass{
+    background-color: red;
+}
+
